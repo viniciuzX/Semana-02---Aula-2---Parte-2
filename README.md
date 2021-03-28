@@ -1,1 +1,1 @@
-# Semana-02---Aula-2---Parte-2
+repositório criado para subir codigos das atividades da disciplina de programação estruturada
